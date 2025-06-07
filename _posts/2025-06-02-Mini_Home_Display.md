@@ -7,3 +7,9 @@ author: <author_id>
 description: My first project, a mini home display that utilizes an lcd as a display that takes sensor inputs
 ---
 
+{% 
+include embed/video.html
+src='./assets/lib/Home-Display/Demo_Video.mp4'
+title='Demo video'
+autoplay=true
+%}
